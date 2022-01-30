@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<img height="300" width="700" src="./assets/presentation.gif"/>
+<img height="300" width="100%" src="./assets/presentation.gif"/>
 <br>
 <div>
 <img alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=BrendowLincoln&theme=tokyonight&show_icons=true&hide_border=true" />
