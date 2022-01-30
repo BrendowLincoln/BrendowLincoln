@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
   <img  alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendowLincoln&theme=react&hide_border=true" />
 
-  <img alt= "stats card" height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendowLincoln&theme=react">
+  <img alt= "stats card" height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendowLincoln&theme=react&hide_border=true">
 </div>
 
 </br>
