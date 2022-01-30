@@ -14,13 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  
+  .gitstats {
+    display: flex,
+    height: 800px
+  }
+</style>
+
 <div>
   
 </div>
 
 <img height="300" width="100%" src="./assets/presentation.gif"/>
 
-<h1 align="center"> Social Media: </h1>
+<h1 align="center"> Social Media </h1>
   <p align="center">
     <a href="https://pt.stackoverflow.com/users/172962/brendow-lincoln">
       <img src="https://img.shields.io/badge/stack%20overflow-38bcad?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
@@ -32,15 +40,28 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/SEND%20MAIL-38bcad?&style=for-the-badge&logo=MAIL.RU&logoColor=white">
     </a>
   </p>
+  
+<!-- GitHub Status-->
 
-<div>
-<img alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=BrendowLincoln&theme=tokyonight&show_icons=true&hide_border=true" />
 
-<img alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendowLincoln&theme=tokyonight&hide_border=true" />
+<h1 align="center"> Git Stats </h1>
+
+<div class="gitstats">
+  <p align="left">
+    <img alt="Brendow's github stats" width="400" height="210" src="https://github-readme-stats.vercel.app/api?username=BrendowLincoln&theme=react&show_icons=true&hide_border=true" />
+  </p>
+  
+  <p align="left">
+   <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendowLincoln&theme=react">
+  </p>
+
+  <p align="right">
+    <img  alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendowLincoln&theme=react&hide_border=true" />
+  </p>
 </div>
 <br/>
 
-<p>
+<p align="center">
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img alt="Dot Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
