@@ -14,23 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  
-  .gitstats-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    border: 1px solid red;
-  }
-
-  .gitstats-container .gitstats-subcontainer {
-    display: flex;
-    width: 500px;
-    flex-wrap: wrap;
-    border: 1px solid green;
-  }
-</style>
-
 <div>
   
 </div>
