@@ -19,7 +19,20 @@ Here are some ideas to get you started:
 </div>
 
 <img height="300" width="100%" src="./assets/presentation.gif"/>
-<br>
+
+<h1 align="center"> Social Media: </h1>
+  <p align="center">
+    <a href="https://pt.stackoverflow.com/users/172962/brendow-lincoln">
+      <img src="https://img.shields.io/badge/stack%20overflow-38bcad?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/DavidsDvm">
+      <img src="https://img.shields.io/badge/linkedin-38bcad?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:linconlbrendow@gmail.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-38bcad?&style=for-the-badge&logo=MAIL.RU&logoColor=white">
+    </a>
+  </p>
+
 <div>
 <img alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=BrendowLincoln&theme=tokyonight&show_icons=true&hide_border=true" />
 
