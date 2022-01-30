@@ -16,9 +16,18 @@ Here are some ideas to get you started:
 
 <style>
   
-  .gitstats {
-    display: flex,
-    height: 800px
+  .gitstats-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid red;
+  }
+
+  .gitstats-container .gitstats-subcontainer {
+    display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+    border: 1px solid green;
   }
 </style>
 
@@ -46,20 +55,15 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Git Stats </h1>
 
-<div class="gitstats">
-  <p align="left">
-    <img alt="Brendow's github stats" width="400" height="210" src="https://github-readme-stats.vercel.app/api?username=BrendowLincoln&theme=react&show_icons=true&hide_border=true" />
-  </p>
-  
-  <p align="left">
-   <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendowLincoln&theme=react">
-  </p>
+<div>
+  <img alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=BrendowLincoln&theme=react&show_icons=true&hide_border=true" />
 
-  <p align="right">
-    <img  alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendowLincoln&theme=react&hide_border=true" />
-  </p>
+  <img  alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendowLincoln&theme=react&hide_border=true" />
+
+  <img alt= "stats card" height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendowLincoln&theme=react">
 </div>
-<br/>
+
+</br>
 
 <p align="center">
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
