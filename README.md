@@ -32,13 +32,12 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/SEND%20MAIL-38bcad?&style=for-the-badge&logo=MAIL.RU&logoColor=white">
     </a>
   </p>
+
+  </br>
   
 <!-- GitHub Status-->
 
-
-<h1 align="center"> Git Stats </h1>
-
-<div>
+<div align="center">
   <img alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=BrendowLincoln&theme=react&show_icons=true&hide_border=true" />
 
   <img  alt="Brendow's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendowLincoln&theme=react&hide_border=true" />
