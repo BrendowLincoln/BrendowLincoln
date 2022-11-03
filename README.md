@@ -5,7 +5,7 @@
   <a href="https://pt.stackoverflow.com/users/172962/brendow-lincoln">
     <img src="https://img.shields.io/badge/stack%20overflow-38bcad?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/DavidsDvm">
+  <a href="https://www.linkedin.com/in/brendow-lincoln/">
     <img src="https://img.shields.io/badge/linkedin-38bcad?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:linconlbrendow@gmail.com">
