@@ -39,10 +39,3 @@
 </div>
 
 </br>
-
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=BrendowLincoln&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
